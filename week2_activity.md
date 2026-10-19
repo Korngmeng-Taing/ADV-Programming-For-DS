@@ -5,12 +5,12 @@
 During this class session, we set up version control and project repository structure on GitHub:
 
 1. **Created a GitHub Repository:**
-   - Repository Name: `ADV_programming_for_DS` (or `ADV-Programing-For-DS`)
+   - Repository Name: ADV-Programing-For-DS
 2. **Branch Management:**
    - Created and configured three main branches:
      - **`main`**: The primary branch containing the overall project overview and documentation.
      - **`Course`**: Dedicated branch for lecture notes, slides, and theoretical materials.
-     - **`TP`**: Dedicated branch for practical work (Travaux Pratiques / lab exercises) and assignments.
+     - **`TP`**: lab exercises
 3. **Commit & Push:**
    - Added initial project files and documentation.
    - Committed changes and pushed all branches (`main`, `Course`, `TP`) to the GitHub remote repository.
